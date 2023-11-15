@@ -8,10 +8,7 @@ Grupo: The White Hats
 
 #Acerca de la entrega
 
-Este practico presenta la aplicacion de react-vite-typescript y pruebas de la api.
+Este practico presenta la aplicacion de react de la entrega anterior con la inclusion de un ABM en mi caso de Cliente, en la pestaña de administracion("http://localhost:5173/administracion").
 
-Para probarlo tenemos el link de Vercel(Al final) con todas sus funciones.
 
 # Links: 
-
-https://1-react-vite-typescript.vercel.app/
